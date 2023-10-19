@@ -1,0 +1,18 @@
+header{
+    background:white;
+    padding:0;
+    border: 1px solid red;
+
+}
+
+a{
+    color:white;
+}
+a:hover{
+    background:rgb(232, 223, 223);
+    color:red;
+    
+}
+a:active{
+    color:red;
+}

@@ -1,0 +1,12 @@
+.fa{
+    font-size: 1.5rem;
+    color: #000;
+    align-items: center;
+    float: right;
+}
+
+.slider_img{
+    width: 100%;
+    height:300px;
+    display:flex;
+}
